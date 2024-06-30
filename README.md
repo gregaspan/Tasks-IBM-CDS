@@ -2,9 +2,7 @@
 
 A simple To-Do List app built with React, Vite, and Carbon Design System.
 
-<img width="1436" alt="image" src="https://github.com/gregaspan/Tasks-IBM-CDS/assets/126577387/3226c971-8713-4cbe-84cd-de23871bc309">
-
-
+<img width="1436" alt="image" src="https://github.com/gregaspan/Tasks-IBM-CDS/assets/126577387/c32e4c84-5433-47a1-8f87-cdfa741db454">
 
 ## Features
 
@@ -40,6 +38,10 @@ A simple To-Do List app built with React, Vite, and Carbon Design System.
     ```
     http://localhost:5173
     ```
+
+## Demo
+
+Check out the video demo [here](https://www.loom.com/share/0cf08f9b71374372affc240d55ab8b0e?sid=ad13ecb4-ed15-411e-a9aa-1f4fde2b2723).
 
 ## License
 
