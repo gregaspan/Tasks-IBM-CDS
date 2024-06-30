@@ -2,7 +2,8 @@
 
 A simple To-Do List app built with React, Vite, and Carbon Design System.
 
-<img width="1436" alt="image" src="https://github.com/gregaspan/Tasks-IBM-CDS/assets/126577387/9a8869d5-fd66-4e74-8b30-747c2f6c2b97">
+<img width="1436" alt="image" src="https://github.com/gregaspan/Tasks-IBM-CDS/assets/126577387/3226c971-8713-4cbe-84cd-de23871bc309">
+
 
 
 ## Features
